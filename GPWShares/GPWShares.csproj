@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+	<Version>0.1.0</Version>
+	<Authors>pwiejak</Authors>
+	<Description>C# library for easy access to polish GPW shares and instruments</Description>
+	<Copyright>pwiejak</Copyright>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	<PackageProjectUrl>https://github.com/pwiejak/gpw-shares</PackageProjectUrl>
+	<PublishRepositoryUrl>true</PublishRepositoryUrl>
+	<PackageTags>GPW polish market shares</PackageTags>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
